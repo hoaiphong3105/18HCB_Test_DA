@@ -1,3 +1,4 @@
 1. Chromedriver: https://chromedriver.chromium.org/downloads
 -> đổi lại đường dãn trong file Utility
 2. Đường dẫn image -> đổi lại đường dẫn theo máy
+3. Thêm data trong object testdata
